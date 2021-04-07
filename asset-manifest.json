@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Lawdata/static/js/main.bf1d0ec9.chunk.js",
+    "main.js.map": "/Lawdata/static/js/main.bf1d0ec9.chunk.js.map",
+    "runtime-main.js": "/Lawdata/static/js/runtime-main.80be266c.js",
+    "runtime-main.js.map": "/Lawdata/static/js/runtime-main.80be266c.js.map",
+    "static/js/2.dc1c1733.chunk.js": "/Lawdata/static/js/2.dc1c1733.chunk.js",
+    "static/js/2.dc1c1733.chunk.js.map": "/Lawdata/static/js/2.dc1c1733.chunk.js.map",
+    "static/js/3.b1316235.chunk.js": "/Lawdata/static/js/3.b1316235.chunk.js",
+    "static/js/3.b1316235.chunk.js.map": "/Lawdata/static/js/3.b1316235.chunk.js.map",
+    "index.html": "/Lawdata/index.html",
+    "static/js/2.dc1c1733.chunk.js.LICENSE.txt": "/Lawdata/static/js/2.dc1c1733.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80be266c.js",
+    "static/js/2.dc1c1733.chunk.js",
+    "static/js/main.bf1d0ec9.chunk.js"
+  ]
+}
